@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olympus Thunderbound</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="next_floor">NEXT FLOOR</string>
+    <string name="menu">MENU</string>
+    <string name="go">GO</string>
+    <string name="dash_left">GO LEFT</string>
+    <string name="dash_right">GO RIGHT</string>
+    <string name="shield">SHIELD</string>
+    <string name="resume">RESUME</string>
+    <string name="levels">LEVELS</string>
+    <string name="level_editor">LEVEL EDITOR</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="back">BACK</string>
+    <string name="test_run">TEST RUN</string>
+    <string name="save_temple">SAVE TEMPLE</string>
+    <string name="clear_board">CLEAR BOARD</string>
+
+    <string name="splash_title">OLYMPUS</string>
+    <string name="splash_title_second">THUNDERBOUND</string>
+    <string name="splash_subtitle">CLIMB BEFORE THE STORM</string>
+    <string name="loading">LOADING</string>
+
+    <string name="menu_title">OLYMPUS THUNDERBOUND</string>
+    <string name="menu_tagline">TEMPLE %1$d OF 3 · FLOOR %2$d</string>
+    <string name="menu_hint">LEAP LEFT AND RIGHT TO CLIMB · RIDE THE WIND</string>
+    <string name="first_ascent">YOUR FIRST ASCENT AWAITS</string>
+    <string name="legal_line">18+ VISUAL STYLE · NO REAL MONEY · OFFLINE</string>
+
+    <string name="stat_best_height">BEST HEIGHT</string>
+    <string name="stat_relics">RELICS</string>
+    <string name="stat_temples">TEMPLES</string>
+    <string name="stat_height">HEIGHT</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_score">SCORE</string>
+
+    <string name="height_value">%1$d M</string>
+    <string name="floor_value">FLOOR %1$d</string>
+    <string name="relic_fraction">%1$d / 3</string>
+    <string name="plain_number">%1$d</string>
+    <string name="bubble_count">x%1$d</string>
+
+    <string name="outcome_aegis">AEGIS CLAIMED</string>
+    <string name="outcome_sentinel">THE SENTINEL YIELDS</string>
+    <string name="outcome_storm">THE STORM TOOK YOU</string>
+    <string name="new_best">NEW BEST ASCENT</string>
+
+    <string name="pause_title">THE CLIMB HOLDS</string>
+    <string name="pause_body">%1$d M CLIMBED · %2$d RELICS CARRIED</string>
+    <string name="seed_label">SEED %1$d</string>
+
+    <string name="hint_controls">PRESS LEFT OR RIGHT TO LEAP · SHIELD EATS A BOLT</string>
+    <string name="hint_idle">THE GATE IS SHUT · PRESS THE BOLT TO BEGIN THE ASCENT</string>
+
+    <string name="cd_pause">Pause the climb</string>
+    <string name="cd_messenger">Messenger of Olympus</string>
+    <string name="cd_relic">Ceremonial relic</string>
+    <string name="cd_shield">Aegis bubble</string>
+    <string name="cd_logo">Olympus Thunderbound emblem</string>
+    <string name="cd_temple_gate">Temple gate emblem</string>
+    <string name="cd_bolt_orb">Bolt orb hazard</string>
+    <string name="cd_basalt_slab">Basalt ledge</string>
+
+    <string name="sd_locked">Locked</string>
+    <string name="sd_unlocked">Unlocked</string>
+    <string name="sd_no_charge">No dash charge left</string>
+    <string name="sd_aegis_active">Aegis active</string>
+    <string name="sd_assist_on">On</string>
+    <string name="sd_assist_off">Off</string>
+    <string name="sd_tool_selected">Selected tool</string>
+
+    <string name="levels_title">TEMPLES OF THE STORM</string>
+    <string name="sentinel_arena">SENTINEL ARENA</string>
+    <string name="your_temples">YOUR TEMPLES</string>
+    <string name="no_temples">NO TEMPLES BUILT YET - OPEN THE LEVEL EDITOR</string>
+    <string name="temple_slot">TEMPLE %1$d</string>
+    <string name="piece_count_short">%1$d PIECES</string>
+
+    <string name="editor_title">THE TEMPLE FORGE</string>
+    <string name="editor_hint">PICK A PIECE · TAP A CELL TO PLACE · TAP IT ONCE MORE TO CLEAR</string>
+    <string name="tool_basalt">BASALT</string>
+    <string name="tool_drift">DRIFT</string>
+    <string name="tool_bolt">BOLT</string>
+    <string name="tool_wind">WIND</string>
+    <string name="tool_relic">RELIC</string>
+    <string name="tool_gate">GATE</string>
+    <string name="tool_erase">ERASE</string>
+    <string name="piece_count">%1$d / %2$d PIECES</string>
+    <string name="editor_valid">THE CLIMB HOLDS TRUE</string>
+    <string name="editor_no_gate">NO GATE PLACED - SET A GATE ON THE TOP ROW</string>
+    <string name="editor_no_ledge">NO LEDGE ABOVE THE FLOOR - ADD BASALT FIRST</string>
+    <string name="editor_break">THE CLIMB BREAKS AT ROW %1$d - ADD A LEDGE</string>
+    <string name="editor_saved">SAVED TO SLOT %1$d</string>
+    <string name="editor_slots">SLOT %1$d</string>
+
+    <string name="howto_title">HOW TO PLAY</string>
+    <string name="howto_1_title">PRESS GO LEFT OR GO RIGHT</string>
+    <string name="howto_1_body">A LIGHTNING LEAP SIDEWAYS AND UP. THREE CHARGES, EACH REFILLS IN 1.1 S.</string>
+    <string name="howto_2_title">STAY IN A WIND COLUMN</string>
+    <string name="howto_2_body">THE UPDRAFT CARRIES YOU AND REFILLS EVERY DASH CHARGE AT ONCE.</string>
+    <string name="howto_3_title">TAP SHIELD</string>
+    <string name="howto_3_body">AN AEGIS BUBBLE FOR 2.5 S. IT STOPS BOLTS, NOT FALLS.</string>
+    <string name="howto_4_title">WATCH THE TIDE</string>
+    <string name="howto_4_body">THE STORM SEA RISES THE WHOLE RUN. HEIGHT IS THE ONLY SAFETY.</string>
+    <string name="howto_legend">WHAT YOU WILL MEET</string>
+    <string name="legend_hazard">BOLT ORB · IT WARNS, THEN IT STRIKES THE WHOLE ROW.</string>
+    <string name="legend_slab">BASALT LEDGE · GOLD UNDERLINE MEANS IT DRIFTS.</string>
+    <string name="legend_relic">RELIC · PLUS 120 SCORE AND ONE AEGIS BUBBLE BACK.</string>
+    <string name="legend_aegis">AEGIS BUBBLE · THE GOLD RING THAT EATS A BOLT.</string>
+    <string name="howto_assists">ASCENT ASSISTS</string>
+    <string name="assist_telegraph">LONGER BOLT WARNING</string>
+    <string name="assist_telegraph_body">BOLT WARNING GROWS FROM 0.65 S TO 1.0 S.</string>
+    <string name="assist_swap">SWAP CONTROL SIDES</string>
+    <string name="assist_swap_body">MIRRORS THE TWO LEAP BUTTONS FOR LEFT HANDED PLAY.</string>
+</resources>
